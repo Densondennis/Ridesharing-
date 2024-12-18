@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "964232747146",
+    "project_id": "uber-app-79c4e",
+    "storage_bucket": "uber-app-79c4e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964232747146:android:7f38e4d2ccc64e3afff573",
+        "android_client_info": {
+          "package_name": "RideSharingApp.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXgkgBqKmM1eTziWh-2PNBHHDmtRejo2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
